@@ -1,0 +1,29 @@
+{
+  "2025-12-01": {
+    "total_focus_sec": 20,
+    "sessions": 2,
+    "longest_sec": 10
+  },
+  "2025-12-02": {
+    "total_focus_sec": 15,
+    "sessions": 3,
+    "longest_sec": 5,
+    "details": [
+      {
+        "name": "Session 1",
+        "duration_min": 0,
+        "time": "11:32"
+      },
+      {
+        "name": "Session 2",
+        "duration_min": 0,
+        "time": "11:59"
+      },
+      {
+        "name": "Session 3",
+        "duration_min": 0,
+        "time": "11:59"
+      }
+    ]
+  }
+}
